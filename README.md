@@ -1,4 +1,4 @@
--👋 Hi, I’m @Bruce2Cluny191
+-👋 Hi, I’m Yann Pham-Van
 
 -👀 I’m interested in applying data science and machine learning to solve complex problems and create impactful solutions.
 
