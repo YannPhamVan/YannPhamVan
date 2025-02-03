@@ -1,4 +1,4 @@
--👋 Hi, I’m Yann Pham-Van
+-👋 Hi, I’m Yann Pham-Van, Data Scientist Freelance
 
 -👀 I’m interested in applying data science and machine learning to solve complex problems and create impactful solutions.
 
