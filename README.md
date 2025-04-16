@@ -12,7 +12,7 @@ With a background in industrial engineering and teaching, I have developed a rig
 🔹 **Data Engineering** (SQL, BigQuery, dbt, dlt, Kestra)  
 🔹 **MLOps & Cloud Computing** (AWS, GCP, Docker, Kubernetes)  
 🔹 **Development & Automation** (Python, FastAPI, Flask)  
-🔹 **Data Visualization & Storytelling** (Matplotlib, Seaborn, Looker Studio)  
+🔹 **Data Visualization & Storytelling** (Matplotlib, Seaborn, Streamlit, Looker Studio)  
 
 ## 📌 Notable Projects
 
@@ -22,15 +22,15 @@ With a background in industrial engineering and teaching, I have developed a rig
 🌟 **[Financial Distress Prediction](https://github.com/YannPhamVan/financial-distress-prediction)**  
 ➡️ Classification model for predicting corporate bankruptcies, with a Flask API and cloud deployment.
 
-🌟 **[Data Pipeline with Kestra & BigQuery](https://github.com/.../)** *(In progress)*  
-➡️ Orchestrating and ingesting New York taxi trip data using Kestra and BigQuery.
+🌟 **[OptiFund: Data-Driven Portfolio Optimization](https://github.com/YannPhamVan/OptiFund-Data-Driven-Portfolio-Optimization)**  
+➡️ A full-stack data engineering project using Kestra, GCS, and BigQuery to ingest and transform global stock indices. Business dashboards built in Looker Studio to compare performance and correlations.
 
 ## 🏆 Certifications & Achievements
 
 ✅ **Machine Learning Zoomcamp** - DataTalksClub  
+✅ **Data Engineering Zoomcamp** - DataTalksClub  
 ✅ **Data Scientist** - OpenClassrooms/CentraleSupélec  
-✅ **Publications & Sharing** on LinkedIn about Machine Learning and MLOps
+✅ **Publications & Sharing** on LinkedIn about Machine Learning, Data Engineering, and MLOps
 
 ---
 💡 Always looking for new challenges in data science and data engineering! Feel free to explore my projects and reach out.
-
