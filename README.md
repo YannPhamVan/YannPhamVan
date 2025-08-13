@@ -2,35 +2,39 @@
 
 ## 🚀 About Me
 
-I am a **Data Scientist** specializing in **Machine Learning**, with a strong focus on **anomaly detection** and **scoring**. My goal is to help businesses leverage the power of their data to enhance decision-making and automate processes.
+I am a **Data Scientist** specializing in **Machine Learning**, with a strong focus on **scoring**, **anomaly detection**, and **forecasting**.  
+I help businesses **industrialize their ML models** and **deliver measurable impact** through robust, production-ready data pipelines.
 
-With a background in industrial engineering and teaching, I have developed a rigorous approach to data, the ability to explain complex concepts clearly, and expertise in cloud tools for deploying models into production.
+With a background in **industrial engineering** and **teaching**, I combine a rigorous approach to data, the ability to explain complex concepts clearly, and expertise in **MLOps** for deploying and monitoring models in production.
 
 ## 🛠️ Skills & Experience
 
-🔹 **Machine Learning** (Scikit-learn, XGBoost, TensorFlow, PyTorch)  
-🔹 **Data Engineering** (SQL, BigQuery, dbt, dlt, Kestra)  
-🔹 **MLOps & Cloud Computing** (AWS, GCP, Docker, Kubernetes)  
-🔹 **Development & Automation** (Python, FastAPI, Flask)  
-🔹 **Data Visualization & Storytelling** (Matplotlib, Seaborn, Streamlit, Looker Studio)  
+🔹 **Machine Learning** (Scikit-learn, XGBoost, LightGBM, TensorFlow, PyTorch)  
+🔹 **Data Engineering** (SQL, BigQuery, dbt, dlt, Kestra, Prefect)  
+🔹 **MLOps & Cloud Computing** (AWS, GCP, Docker, Kubernetes, MLflow, Evidently)  
+🔹 **Development & APIs** (Python, FastAPI, Flask, REST)  
+🔹 **Business Intelligence & Visualization** (Looker Studio, Streamlit, Matplotlib, Seaborn)  
 
 ## 📌 Notable Projects
 
 🌟 **[Industrial Equipment Failure Prediction](https://github.com/YannPhamVan/Industrial-Equipment-Failure-Prediction)**  
-➡️ Predicting industrial equipment failures with a machine learning pipeline, deployed on AWS Elastic Beanstalk.
+➡️ Time-series feature engineering and supervised ML model for predicting industrial equipment failures. Deployed as an API on AWS Elastic Beanstalk.
 
 🌟 **[Financial Distress Prediction](https://github.com/YannPhamVan/financial-distress-prediction)**  
-➡️ Classification model for predicting corporate bankruptcies, with a Flask API and cloud deployment.
+➡️ Predicting corporate bankruptcies using classification models, with Flask API deployment and monitoring.
 
 🌟 **[OptiFund: Data-Driven Portfolio Optimization](https://github.com/YannPhamVan/OptiFund-Data-Driven-Portfolio-Optimization)**  
-➡️ A full-stack data engineering project using Kestra, GCS, and BigQuery to ingest and transform global stock indices. Business dashboards built in Looker Studio to compare performance and correlations.
+➡️ End-to-end data engineering pipeline with Kestra, GCS, BigQuery, dbt, and Looker dashboards for stock index performance analysis.
 
 ## 🏆 Certifications & Achievements
 
-✅ **Machine Learning Zoomcamp** - DataTalksClub  
-✅ **Data Engineering Zoomcamp** - DataTalksClub  
-✅ **Data Scientist** - OpenClassrooms/CentraleSupélec  
-✅ **Publications & Sharing** on LinkedIn about Machine Learning, Data Engineering, and MLOps
+✅ **MLOps Zoomcamp** – DataTalks.Club (2025)  
+✅ **Machine Learning Zoomcamp** – DataTalks.Club  
+✅ **Data Engineering Zoomcamp** – DataTalks.Club  
+✅ **Data Scientist** – OpenClassrooms/CentraleSupélec  
+✅ **Public Speaking & Publications** – LinkedIn content on ML, MLOps, and Data Engineering
 
 ---
-💡 Always looking for new challenges in data science and data engineering! Feel free to explore my projects and reach out.
+
+💡 Always open to collaborations and new challenges in **data science**, **MLOps**, and **data engineering**.  
+Feel free to explore my projects and connect!
