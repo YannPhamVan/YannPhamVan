@@ -1,40 +1,42 @@
-# 👋 Welcome to My GitHub Profile
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36D1DC,100:5B86E5&height=180&section=header&text=Yann%20Pham-Van&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+</p>
 
-## 🚀 About Me
+# 👋 Hi, I'm Yann Pham-Van
 
-I am a **Data Scientist** specializing in **Machine Learning**, with a strong focus on **scoring**, **anomaly detection**, and **forecasting**.  
-I help businesses **industrialize their ML models** and **deliver measurable impact** through robust, production-ready data pipelines.
+**Data Scientist Freelance – Finance & Industry | Scoring, Anomalies, Forecasting | Certified MLOps**
 
-With a background in **industrial engineering** and **teaching**, I combine a rigorous approach to data, the ability to explain complex concepts clearly, and expertise in **MLOps** for deploying and monitoring models in production.
-
-## 🛠️ Skills & Experience
-
-🔹 **Machine Learning** (Scikit-learn, XGBoost, LightGBM, TensorFlow, PyTorch)  
-🔹 **Data Engineering** (SQL, BigQuery, dbt, dlt, Kestra, Prefect)  
-🔹 **MLOps & Cloud Computing** (AWS, GCP, Docker, Kubernetes, MLflow, Evidently)  
-🔹 **Development & APIs** (Python, FastAPI, Flask, REST)  
-🔹 **Business Intelligence & Visualization** (Looker Studio, Streamlit, Matplotlib, Seaborn)  
-
-## 📌 Notable Projects
-
-🌟 **[Industrial Equipment Failure Prediction](https://github.com/YannPhamVan/Industrial-Equipment-Failure-Prediction)**  
-➡️ Time-series feature engineering and supervised ML model for predicting industrial equipment failures. Deployed as an API on AWS Elastic Beanstalk.
-
-🌟 **[Financial Distress Prediction](https://github.com/YannPhamVan/financial-distress-prediction)**  
-➡️ Predicting corporate bankruptcies using classification models, with Flask API deployment and monitoring.
-
-🌟 **[OptiFund: Data-Driven Portfolio Optimization](https://github.com/YannPhamVan/OptiFund-Data-Driven-Portfolio-Optimization)**  
-➡️ End-to-end data engineering pipeline with Kestra, GCS, BigQuery, dbt, and Looker dashboards for stock index performance analysis.
-
-## 🏆 Certifications & Achievements
-
-✅ **MLOps Zoomcamp** – DataTalks.Club (2025)  
-✅ **Machine Learning Zoomcamp** – DataTalks.Club  
-✅ **Data Engineering Zoomcamp** – DataTalks.Club  
-✅ **Data Scientist** – OpenClassrooms/CentraleSupélec  
-✅ **Public Speaking & Publications** – LinkedIn content on ML, MLOps, and Data Engineering
+I help decision-makers turn raw data into **actionable insights** by building **production-ready ML models** and **reliable data pipelines**.  
+Background in **industrial engineering** & **teaching** → rigorous approach, clear communication, and business focus.
 
 ---
 
-💡 Always open to collaborations and new challenges in **data science**, **MLOps**, and **data engineering**.  
-Feel free to explore my projects and connect!
+## 🔧 Core Skills
+- **Machine Learning & MLOps**: Python, Scikit-learn, MLflow, Evidently, CI/CD  
+- **Data Engineering**: SQL, BigQuery, dbt, Kestra, Prefect  
+- **BI & Visualization**: Looker Studio, Streamlit
+
+---
+
+## 📌 Featured Projects
+- **[Industrial Equipment Failure Prediction](https://github.com/YannPhamVan/Industrial-Equipment-Failure-Prediction)** – Predictive maintenance with ML pipeline on AWS  
+- **[Financial Distress Prediction](https://github.com/YannPhamVan/financial-distress-prediction)** – Bankruptcy prediction model with API deployment  
+- **[OptiFund Portfolio Optimization](https://github.com/YannPhamVan/OptiFund-Data-Driven-Portfolio-Optimization)** – End-to-end data pipeline with Kestra + BigQuery
+
+---
+
+## 🏆 Certifications
+- **MLOps Zoomcamp** – DataTalks.Club (2025)  
+- Machine Learning Zoomcamp – DataTalks.Club  
+- Data Engineering Zoomcamp – DataTalks.Club  
+- Data Scientist – OpenClassrooms / CentraleSupélec
+
+---
+
+📫 **Get in touch**: [LinkedIn](https://www.linkedin.com/in/chasseur2valeurs/) • [GitHub](https://github.com/YannPhamVan)
+
+<!-- Footer Wave -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5B86E5,100:36D1DC&height=120&section=footer"/>
+</p>
