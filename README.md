@@ -13,28 +13,36 @@ Background in **industrial engineering** & **teaching** → rigorous approach, c
 ---
 
 ## 🔧 Core Skills
-- **Machine Learning & MLOps**: Python, Scikit-learn, MLflow, Evidently, CI/CD  
-- **Data Engineering**: SQL, BigQuery, dbt, Kestra, Prefect  
-- **BI & Visualization**: Looker Studio, Streamlit
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,git,docker,gcp,aws,tensorflow,pytorch,kubernetes,postgres" />
+</p>
 
 ---
 
 ## 📌 Featured Projects
-- **[Industrial Equipment Failure Prediction](https://github.com/YannPhamVan/Industrial-Equipment-Failure-Prediction)** – Predictive maintenance with ML pipeline on AWS  
-- **[Financial Distress Prediction](https://github.com/YannPhamVan/financial-distress-prediction)** – Bankruptcy prediction model with API deployment  
-- **[OptiFund Portfolio Optimization](https://github.com/YannPhamVan/OptiFund-Data-Driven-Portfolio-Optimization)** – End-to-end data pipeline with Kestra + BigQuery
+- 🌟 **[Industrial Equipment Failure Prediction](https://github.com/YannPhamVan/Industrial-Equipment-Failure-Prediction)** – Predictive maintenance with ML pipeline on AWS  
+- 🌟 **[Financial Distress Prediction](https://github.com/YannPhamVan/financial-distress-prediction)** – Bankruptcy prediction model with API deployment  
+- 🌟 **[OptiFund Portfolio Optimization](https://github.com/YannPhamVan/OptiFund-Data-Driven-Portfolio-Optimization)** – End-to-end data pipeline with Kestra + BigQuery
 
 ---
 
 ## 🏆 Certifications
-- **MLOps Zoomcamp** – DataTalks.Club (2025)  
-- Machine Learning Zoomcamp – DataTalks.Club  
-- Data Engineering Zoomcamp – DataTalks.Club  
-- Data Scientist – OpenClassrooms / CentraleSupélec
+- ✅ **MLOps Zoomcamp** – DataTalks.Club (2025)  
+- ✅ Machine Learning Zoomcamp – DataTalks.Club  
+- ✅ Data Engineering Zoomcamp – DataTalks.Club  
+- ✅ Data Scientist – OpenClassrooms / CentraleSupélec  
 
 ---
 
-📫 **Get in touch**: [LinkedIn](https://www.linkedin.com/in/chasseur2valeurs/) • [GitHub](https://github.com/YannPhamVan)
+## 🌍 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/chasseur2valeurs/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/YannPhamVan">
+    <img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 <!-- Footer Wave -->
 <p align="center">

@@ -3,6 +3,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Yann%20Pham-Van&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
+<!-- Slogan -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36D1DC&center=true&vCenter=true&width=700&lines=Turning+Data+into+Business+Impact;Scoring+%7C+Anomalies+%7C+Forecasting;Production-Ready+Machine+Learning;Transformer+les+donn%C3%A9es+en+leviers+d'action;Scoring+%7C+Anomalies+%7C+Pr%C3%A9visions;IA+%26+Data+au+service+de+l'entreprise" alt="Typing SVG" />
+</p>
+
 # 👋 Hi, I'm Yann Pham-Van
 
 **Data Scientist Freelance – Finance & Industry | Scoring, Anomalies, Forecasting | Certified MLOps**
@@ -14,7 +19,7 @@ Background in **industrial engineering** & **teaching** → rigorous approach, c
 
 ## 🔧 Core Skills
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,git,docker,gcp,aws,tensorflow,pytorch,kubernetes,sql" />
+  <img src="https://skillicons.dev/icons?i=python,git,docker,gcp,aws,tensorflow,pytorch,kubernetes,postgres" />
 </p>
 
 ---
